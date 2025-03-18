@@ -1,0 +1,858 @@
+.petroleum-gas-container-ship-o-icon {
+  position: absolute;
+  bottom: 44px;
+  left: 0px;
+  width: 1920px;
+  height: 603px;
+  object-fit: cover;
+}
+.petroleum-gas-container-ship-o {
+  position: absolute;
+  bottom: 44px;
+  left: 0px;
+  background-color: rgba(0, 0, 0, 0.24);
+  width: 1920px;
+  height: 603px;
+}
+.path-99-icon {
+  position: absolute;
+  top: 2834.01px;
+  left: 0px;
+  width: 1920px;
+  height: 986px;
+}
+.path-97-icon {
+  position: absolute;
+  top: 115.73px;
+  left: 0px;
+  width: 1920px;
+  height: 986px;
+}
+.path-98-icon {
+  position: absolute;
+  top: 750.72px;
+  right: -218px;
+  width: 986px;
+  height: 1920px;
+}
+.ultitex {
+  position: absolute;
+  top: 0px;
+  right: -1px;
+  text-shadow: 0px 3px 6px rgba(255, 255, 255, 0.16);
+}
+.group-child {
+  position: absolute;
+  top: 2.08px;
+  left: 0px;
+  width: 74.4px;
+  height: 68.6px;
+}
+.ultitex-parent {
+  position: absolute;
+  top: 31.92px;
+  left: 121.67px;
+  width: 236px;
+  height: 62px;
+  font-size: 46px;
+  color: var(--color-midnightblue);
+  font-family: var(--font-moniker);
+}
+.mutitex-home-2-child {
+  position: absolute;
+  top: 114.5px;
+  left: -0.5px;
+  border-top: 1px solid #dbdbdb;
+  box-sizing: border-box;
+  width: 1921px;
+  height: 2px;
+  opacity: 0.79;
+}
+.efficiency-meets-reliability {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: var(--font-size-8xl);
+  letter-spacing: 0.27px;
+  text-transform: uppercase;
+  color: var(--color-midnightblue);
+}
+.whether-youre-looking {
+  margin: 0;
+}
+.whether-youre-looking-container {
+  position: absolute;
+  top: calc(50% - 30.94px);
+  left: -0.5px;
+  font-size: var(--font-size-8xl);
+  letter-spacing: 1.35px;
+  font-weight: 200;
+  -webkit-text-stroke: 1px #4b4b4b;
+}
+.years-on-market {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  letter-spacing: 0.9px;
+}
+.big-projects {
+  position: absolute;
+  bottom: 0px;
+  left: calc(50% - 173px);
+  letter-spacing: 0.9px;
+}
+.trusted-partners {
+  position: absolute;
+  bottom: 0px;
+  left: calc(50% + 22px);
+  letter-spacing: 0.9px;
+}
+.your-energy-solutions-container {
+  position: absolute;
+  top: 55.41px;
+  left: -0.5px;
+  font-size: 94px;
+  letter-spacing: 1.88px;
+  line-height: 110px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  -webkit-text-stroke: 1px #4b4b4b;
+}
+.div {
+  position: absolute;
+  bottom: 33px;
+  left: 0px;
+  font-size: var(--font-size-51xl);
+  letter-spacing: 1.4px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+}
+.k {
+  position: absolute;
+  bottom: 33px;
+  left: calc(50% - 173px);
+  font-size: var(--font-size-51xl);
+  letter-spacing: 1.4px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+}
+.div1 {
+  position: absolute;
+  bottom: 33px;
+  left: calc(50% + 22px);
+  font-size: var(--font-size-51xl);
+  letter-spacing: 1.4px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+}
+.group-item {
+  position: absolute;
+  top: calc(50% + 113.75px);
+  left: 0px;
+  border-radius: var(--br-24xl);
+  background-color: var(--color-midnightblue);
+  width: 198px;
+  height: 63px;
+}
+.group-inner {
+  position: absolute;
+  top: calc(50% + 113.75px);
+  left: calc(50% - 177px);
+  border-radius: var(--br-24xl);
+  background-color: var(--color-white);
+  border: 1px solid #585858;
+  box-sizing: border-box;
+  width: 198px;
+  height: 63px;
+}
+.contact-us {
+  position: absolute;
+  top: calc(50% + 132.75px);
+  left: 45px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.discover-more {
+  position: absolute;
+  top: calc(50% + 132.75px);
+  left: calc(50% - 149px);
+  font-size: var(--font-size-xl);
+  color: #929292;
+}
+.efficiency-meets-reliability-parent {
+  position: absolute;
+  top: 242px;
+  left: 150px;
+  width: 810px;
+  height: 698.5px;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+}
+.about-us {
+  position: absolute;
+  top: 1332px;
+  left: 150px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.24px;
+  text-transform: uppercase;
+  color: var(--color-midnightblue);
+}
+.our-services {
+  position: absolute;
+  top: 3557px;
+  left: 874.5px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.24px;
+  text-transform: uppercase;
+  color: var(--color-midnightblue);
+}
+.testmonials {
+  position: absolute;
+  bottom: 1611px;
+  left: 874.5px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.24px;
+  text-transform: uppercase;
+  color: var(--color-midnightblue);
+}
+.lorem-ipsum-is {
+  position: absolute;
+  top: 1572.5px;
+  left: 149.5px;
+  letter-spacing: 1.35px;
+  font-weight: 200;
+  color: var(--color-black);
+  display: inline-block;
+  width: 752px;
+  height: 341px;
+  -webkit-text-stroke: 1px #4b4b4b;
+}
+.learn-about-our-container {
+  position: absolute;
+  top: 1377.5px;
+  left: 149.5px;
+  font-size: var(--font-size-50xl);
+  letter-spacing: 1.38px;
+  line-height: 83px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  -webkit-text-stroke: 1px #4b4b4b;
+}
+.discover-the-range-container {
+  position: absolute;
+  top: 3602.5px;
+  left: 609.5px;
+  font-size: var(--font-size-50xl);
+  letter-spacing: 1.38px;
+  line-height: 83px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  text-align: center;
+  -webkit-text-stroke: 1px #4b4b4b;
+}
+.why-people-consider-container {
+  position: absolute;
+  bottom: 1422.5px;
+  left: 569.5px;
+  font-size: var(--font-size-50xl);
+  letter-spacing: 1.38px;
+  line-height: 83px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  text-align: center;
+  -webkit-text-stroke: 1px #4b4b4b;
+}
+.mutitex-home-2-item {
+  position: absolute;
+  top: 1932px;
+  left: 150px;
+  border-radius: var(--br-24xl);
+  background-color: var(--color-midnightblue);
+  width: 183px;
+  height: 58px;
+}
+.mutitex-home-2-inner {
+  position: absolute;
+  top: 2103px;
+  left: 0px;
+  border-radius: 0px var(--br-213xl) 0px 0px;
+  background-color: var(--color-midnightblue);
+  width: 1740px;
+  height: 861px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 5119px;
+  left: 0px;
+  border-radius: 0px var(--br-213xl) 0px 0px;
+  background-color: var(--color-midnightblue);
+  width: 1920px;
+  height: 2206px;
+}
+.mutitex-home-2-child1 {
+  position: absolute;
+  bottom: 306px;
+  left: 455px;
+  background-color: var(--color-midnightblue);
+  width: 1018px;
+  height: 15px;
+}
+.infographic-template-icon {
+  position: absolute;
+  top: 3842px;
+  left: 100px;
+  border-radius: var(--br-31xl);
+  width: 494px;
+  height: 568px;
+  object-fit: cover;
+}
+.steel-pipelines-cables-plant-icon {
+  position: absolute;
+  top: 4457px;
+  left: 100px;
+  border-radius: var(--br-31xl);
+  width: 494px;
+  height: 568px;
+  object-fit: cover;
+}
+.engineer-technician-designing-icon {
+  position: absolute;
+  top: 3842px;
+  left: 713px;
+  border-radius: var(--br-31xl);
+  width: 495px;
+  height: 568px;
+  object-fit: cover;
+}
+.centre-georges-pompidou-paris-icon {
+  position: absolute;
+  top: 4457px;
+  left: 713px;
+  border-radius: var(--br-31xl);
+  width: 495px;
+  height: 568px;
+  object-fit: cover;
+}
+.workers-control-room-icon {
+  position: absolute;
+  top: 3842px;
+  right: 100px;
+  border-radius: var(--br-31xl);
+  width: 494px;
+  height: 568px;
+  object-fit: cover;
+}
+.electrician-tools-electrical-e-icon {
+  position: absolute;
+  top: 4457px;
+  right: 100px;
+  border-radius: var(--br-31xl);
+  width: 494px;
+  height: 568px;
+  object-fit: cover;
+}
+.discover-more1 {
+  position: absolute;
+  top: 1949px;
+  left: 177px;
+  font-size: var(--font-size-lg);
+}
+.iuthg4-787x1024-icon {
+  position: absolute;
+  top: 178px;
+  right: 134px;
+  width: 634px;
+  height: 826px;
+  object-fit: cover;
+}
+.company {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 800;
+}
+.div2 {
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  width: 199px;
+}
+.div3 {
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  bottom: 0px;
+  left: 249px;
+  width: 199px;
+}
+.div4 {
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  bottom: 0px;
+  left: calc(50% - 362px);
+  width: 199px;
+}
+.div5 {
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  bottom: 0px;
+  left: calc(50% - 113px);
+  width: 199px;
+}
+.div6 {
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  bottom: 0px;
+  left: calc(50% + 136px);
+  width: 199px;
+}
+.div7 {
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  bottom: 0px;
+  left: calc(50% + 385px);
+  width: 199px;
+}
+.div8 {
+  position: absolute;
+  height: 100%;
+  top: 0px;
+  right: 27px;
+  bottom: 0px;
+  width: 199px;
+}
+.repeat-grid-3 {
+  position: absolute;
+  top: 1157.87px;
+  left: 100px;
+  width: 1720px;
+  height: 44px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-darkgray);
+  font-family: var(--font-montserrat);
+}
+.i24uthg4-1024x788-icon {
+  position: absolute;
+  top: 1332px;
+  right: 100px;
+  width: 809px;
+  height: 623px;
+  object-fit: cover;
+}
+.to-drive-innovation-container {
+  position: absolute;
+  top: 2142.5px;
+  left: 149.5px;
+  font-size: var(--font-size-50xl);
+  letter-spacing: 1.38px;
+  line-height: 83px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  -webkit-text-stroke: 1px #fff;
+}
+.as-a-leading-container {
+  position: absolute;
+  top: 5179.5px;
+  left: 149.5px;
+  font-size: var(--font-size-50xl);
+  letter-spacing: 1.38px;
+  line-height: 83px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  -webkit-text-stroke: 1px #fff;
+}
+.div9 {
+  position: absolute;
+  top: 2345.5px;
+  left: 149.5px;
+  font-size: var(--font-size-132xl);
+  letter-spacing: 3.02px;
+  line-height: 182px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  -webkit-text-stroke: 1px #fff;
+}
+.div10 {
+  position: absolute;
+  top: 2611.5px;
+  left: 149.5px;
+  font-size: var(--font-size-132xl);
+  letter-spacing: 3.02px;
+  line-height: 182px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  -webkit-text-stroke: 1px #fff;
+}
+.line-div {
+  position: absolute;
+  top: 2336px;
+  left: -2px;
+  border-top: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1742px;
+  height: 4px;
+  opacity: 0.79;
+}
+.mutitex-home-2-child2 {
+  position: absolute;
+  top: 2584px;
+  left: -2px;
+  border-top: 2px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1742px;
+  height: 4px;
+  opacity: 0.79;
+}
+.lower-prices-than-container {
+  position: absolute;
+  top: 2416.5px;
+  right: 199.5px;
+  letter-spacing: 1.35px;
+  font-weight: 200;
+  -webkit-text-stroke: 1px #fff;
+}
+.reducing-greenhouse-gas-container {
+  position: absolute;
+  top: 2684.5px;
+  left: 525.5px;
+  letter-spacing: 1.35px;
+  font-weight: 200;
+  -webkit-text-stroke: 1px #fff;
+}
+.reducing-greenhouse-gas-container1 {
+  position: absolute;
+  top: 6000px;
+  left: 150px;
+  letter-spacing: 1.35px;
+  font-weight: 300;
+  display: inline-block;
+  width: 659px;
+  height: 152px;
+}
+.we-expand-their {
+  position: absolute;
+  top: 6829px;
+  left: 150px;
+  letter-spacing: 1.35px;
+  font-weight: 300;
+  display: inline-block;
+  width: 648px;
+  height: 76px;
+}
+.we-invest-in {
+  position: absolute;
+  top: 6785px;
+  left: 867px;
+  letter-spacing: 1.35px;
+  font-weight: 300;
+  display: inline-block;
+  width: 449px;
+  height: 120px;
+}
+.we-invest-in1 {
+  position: absolute;
+  top: 6785px;
+  right: 99px;
+  letter-spacing: 1.35px;
+  font-weight: 300;
+  display: inline-block;
+  width: 449px;
+  height: 120px;
+}
+.we-explore-and {
+  position: absolute;
+  top: 6211px;
+  right: 99px;
+  letter-spacing: 1.35px;
+  font-weight: 300;
+  display: inline-block;
+  width: 954px;
+  height: 71px;
+}
+.renewable-energy-development {
+  position: absolute;
+  top: 5940px;
+  left: 150px;
+  font-size: var(--font-size-14xl);
+  letter-spacing: 1.65px;
+}
+.refinery-expansion {
+  position: absolute;
+  top: 6762px;
+  left: 150px;
+  font-size: var(--font-size-14xl);
+  letter-spacing: 1.65px;
+}
+.transport-and-logistics {
+  position: absolute;
+  top: 6725px;
+  left: 867px;
+  font-size: var(--font-size-14xl);
+  letter-spacing: 1.65px;
+}
+.environmental-remedia {
+  position: absolute;
+  top: 6725px;
+  right: 138px;
+  font-size: var(--font-size-14xl);
+  letter-spacing: 1.65px;
+}
+.exploration-and-drilling {
+  position: absolute;
+  top: 6152px;
+  left: 867px;
+  font-size: 32px;
+  letter-spacing: 1.6px;
+}
+.image-5-icon {
+  position: absolute;
+  top: 2854px;
+  left: 0px;
+  width: 1920px;
+  height: 603px;
+  object-fit: cover;
+}
+.image-6-icon {
+  position: absolute;
+  top: 7004px;
+  left: 0px;
+  width: 1920px;
+  height: 603px;
+  object-fit: cover;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 3082px;
+  left: 886px;
+  border-radius: 50%;
+  width: 148px;
+  height: 148px;
+}
+.mutitex-home-2-child3 {
+  position: absolute;
+  top: 7232px;
+  left: 886px;
+  border-radius: 50%;
+  width: 148px;
+  height: 148px;
+}
+.polygon-icon {
+  position: absolute;
+  top: 3139.5px;
+  left: 944.5px;
+  width: 32px;
+  height: 37px;
+}
+.mutitex-home-2-child4 {
+  position: absolute;
+  top: 7287.5px;
+  left: 944px;
+  width: 32px;
+  height: 37px;
+}
+.process-design {
+  position: absolute;
+  top: 4320px;
+  left: 201.5px;
+  font-size: var(--font-size-23xl);
+  letter-spacing: 0.84px;
+  line-height: 51px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  text-align: center;
+  -webkit-text-stroke: 1px #fff;
+}
+.piping-design {
+  position: absolute;
+  top: 4909px;
+  left: 213.5px;
+  font-size: var(--font-size-23xl);
+  letter-spacing: 0.84px;
+  line-height: 51px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  text-align: center;
+  -webkit-text-stroke: 1px #000;
+}
+.mechanical-design {
+  position: absolute;
+  top: 4320px;
+  left: 778.5px;
+  font-size: var(--font-size-23xl);
+  letter-spacing: 0.84px;
+  line-height: 51px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  text-align: center;
+  -webkit-text-stroke: 1px #000;
+}
+.structural-design {
+  position: absolute;
+  top: 4909px;
+  left: 799.5px;
+  font-size: var(--font-size-23xl);
+  letter-spacing: 0.84px;
+  line-height: 51px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  text-align: center;
+  -webkit-text-stroke: 1px #fff;
+}
+.control-instrumentation-container {
+  position: absolute;
+  top: 4269px;
+  right: 205.5px;
+  font-size: var(--font-size-23xl);
+  letter-spacing: 0.84px;
+  line-height: 51px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  text-align: center;
+  -webkit-text-stroke: 1px #fff;
+}
+.electrical-automation-container {
+  position: absolute;
+  top: 4858px;
+  right: 244.5px;
+  font-size: var(--font-size-23xl);
+  letter-spacing: 0.84px;
+  line-height: 51px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  color: var(--color-black);
+  text-align: center;
+  -webkit-text-stroke: 1px #000;
+}
+.ori3jg3-icon {
+  position: absolute;
+  top: 5478px;
+  left: 150px;
+  border-radius: var(--br-31xl);
+  width: 647px;
+  height: 432px;
+  object-fit: cover;
+}
+.o4tjh4-icon {
+  position: absolute;
+  top: 5478px;
+  right: 100px;
+  border-radius: var(--br-31xl);
+  width: 953px;
+  height: 636px;
+  object-fit: cover;
+}
+.k5j4nt-1536x1025-icon {
+  position: absolute;
+  top: 6174px;
+  left: 150px;
+  border-radius: var(--br-31xl);
+  width: 647px;
+  height: 562px;
+  object-fit: cover;
+}
+.o4tijg-icon {
+  position: absolute;
+  top: 6320px;
+  left: 867px;
+  border-radius: var(--br-31xl);
+  width: 448px;
+  height: 353px;
+  object-fit: cover;
+}
+.o42ijtg-icon {
+  position: absolute;
+  top: 6318px;
+  right: 100px;
+  border-radius: var(--br-31xl);
+  width: 448px;
+  height: 353px;
+  object-fit: cover;
+}
+.mask-group-1 {
+  position: absolute;
+  bottom: 831px;
+  left: 163px;
+  width: 770px;
+  height: 502px;
+  object-fit: cover;
+}
+.mask-group-2 {
+  position: absolute;
+  right: 158px;
+  bottom: 831px;
+  width: 770px;
+  height: 502px;
+  object-fit: cover;
+}
+.mutitex-home-2-child5 {
+  position: absolute;
+  bottom: 735px;
+  left: 908px;
+  border-radius: 50%;
+  width: 27px;
+  height: 27px;
+}
+.mutitex-home-2-child6 {
+  position: absolute;
+  bottom: 732px;
+  left: 959px;
+  border-radius: 50%;
+  width: 33px;
+  height: 33px;
+}
+.mutitex-home-2-child7 {
+  position: absolute;
+  bottom: 735px;
+  left: 1016px;
+  border-radius: 50%;
+  width: 27px;
+  height: 27px;
+}
+.from-the-well-container {
+  position: absolute;
+  bottom: 286px;
+  left: 314.5px;
+  font-size: 101px;
+  letter-spacing: 2.02px;
+  line-height: 121px;
+  font-weight: 500;
+  font-family: var(--font-outfit);
+  text-align: center;
+  -webkit-text-stroke: 1px #fff;
+}
+.mutitex-home-2-child8 {
+  position: absolute;
+  bottom: 144px;
+  left: 861px;
+  border-radius: var(--br-24xl);
+  background-color: var(--color-midnightblue);
+  width: 198px;
+  height: 63px;
+}
+.contact-us1 {
+  position: absolute;
+  bottom: 162px;
+  left: 906px;
+  font-size: var(--font-size-xl);
+}
+.mutitex-home-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 9345px;
+  text-align: left;
+  font-size: var(--font-size-8xl);
+  color: var(--color-white);
+  font-family: var(--font-dm-sans-14pt);
+}
