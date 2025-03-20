@@ -12,11 +12,9 @@ const MUTITEXHOME2 = () => {
       <img className="path-99-icon" alt="" src="/path-99.svg" />
       <img className="path-97-icon" alt="" src="/path-99.svg" />
       <img className="path-98-icon" alt="" src="/path-98.svg" />
-      <div className="ultitex-parent">
-        <b className="ultitex">ULTITEX</b>
-        <img className="group-child" alt="" src="/group-76.svg" />
-      </div>
+      <img className="group-child" alt="" src="/logo.png" />
       <div className="mutitex-home-2-child" />
+            <div className="mutitex-home-2-child" />
       <div className="efficiency-meets-reliability-parent">
         <b className="efficiency-meets-reliability">
           Efficiency meets reliability
@@ -94,7 +92,7 @@ const MUTITEXHOME2 = () => {
       <img
         className="workers-control-room-icon"
         alt=""
-        src="/workerscontrolroom@2x.png"
+        src="/workerscontrolroom@2x.jpg"
       />
       <img
         className="electrician-tools-electrical-e-icon"
